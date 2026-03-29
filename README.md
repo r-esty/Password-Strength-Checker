@@ -1,7 +1,15 @@
 # Password Strength Checker
 
-A simple JavaScript-based password strength checker I made that evaluates user inputs and provides feedback on password strength along with improvement tips.
+A web application that evaluates password strength and provides feedback to help users create more secure passwords.
 
-- **Real-time Password Evaluation**: As users type their password, the application evaluates its strength instantly.
-- **Strength Indicators**: Displays password strength as "Very Weak," "Weak," "Good," or "Strong."
-- **Helpful Tips**: Provides suggestions to improve password strength based on user input.
+Passwords are categorised as very weak, weak, good, or strong, with personalised tips to improve security.
+
+## Built With
+
+- HTML
+- CSS
+- JavaScript
+
+## Usage
+
+Clone the repo and open `index.html` in your browser.
